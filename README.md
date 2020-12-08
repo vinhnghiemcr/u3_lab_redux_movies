@@ -15,6 +15,7 @@ npm install axios redux react-redux redux-thunk
 
 - Create a services folder. It should contain all of your axios requests
 - Create a components folder
+- Set up your store, reducers, types and actions
 
 ## Overview
 

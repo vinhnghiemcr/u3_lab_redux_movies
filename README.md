@@ -13,13 +13,14 @@ Make sure to install your required dependencies:
 npm install axios redux react-redux redux-thunk
 ```
 
-Create a services folder.
+- Create a services folder. It should contain all of your axios requests
+- Create a components folder
 
 ## Overview
 
 You'll be building a react app utilizing the `Tmdb V3` api found **[HERE](https://developers.themoviedb.org/3/getting-started/introduction)**.
 
-Sign up for an account and create an api key. Store the api key in a `.env` file for this lab. Remember react env variables must have `REACT_APP` prepending whatever you call your environment variable. You can either use react-router or build a single page app utilizing multiple components.
+Sign up for an account and create an api key. Store the api key in a `.env` file for this lab. Remember react env variables must have `REACT_APP` prepending whatever you call your environment variable. You can either use `react-router` or build a single page app utilizing multiple components.
 
 ## Requirements
 

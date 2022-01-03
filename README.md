@@ -32,7 +32,3 @@ Sign up for an account and create an API key. Store the API key in a `.env` file
 - Be able to add movies or TV shows to a watch list
 
 ![Over](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2Ft8QSeqwoy0Ol2%2Fgiphy.gif&f=1&nofb=1)
-
-## Resources
-- [Redux Mapping State & Props](https://github.com/SEI-R-4-26/u4_lesson_mapping_state_props)
-- [Redux Middleware](https://github.com/SEI-R-4-26/u4_lesson_redux_middleware)

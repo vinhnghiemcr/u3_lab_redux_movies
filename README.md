@@ -1,9 +1,9 @@
-# React Redux Middleware Practice
+# Redux Movies
 
 ![Walt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FR3S6MfUoKvBVS%2Fgiphy.gif&f=1&nofb=1)
 
 ## Overview
-We'll be building a  React app that uses a movie and TV API!  We'll use Redux and Thunk to manage our state.
+We'll be building a React app that uses a movie and TV API!  We'll use Redux and Thunk to manage our state.
 
 ## Getting Started
 - `fork` and `clone`

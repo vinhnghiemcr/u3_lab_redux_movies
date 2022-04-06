@@ -7,7 +7,7 @@ const App = () => {
   
   return (
     <div className="App">
-      <h3>Movie with React Redux</h3>
+      
       <Routes >
         <Route path='/' element={<Movies />} />
         <Route path='/movie/:id' element={<MovieDetail />} />

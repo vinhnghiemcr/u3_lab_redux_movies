@@ -26,7 +26,7 @@ const MovieDetail = (props) => {
     return (
         <div className='movie-detail'>
             <img src={props.movieDetailState.IMG_URL + props.movieDetailState.movie.backdrop_path} alt='backdrop image' />
-            <ReactStars value={props.movieDetailState.movie.vote_average} size={24} color2={'#ffd700'} edit={false} />
+            <ReactStars value={props.movieDetailState.movie.vote_average} count={10} size={24} color2={'#ffd700'} edit={false} />
             <h2>{props.movieDetailState.movie.title}</h2>
             <p>{props.movieDetailState.movie.overview}</p>
         </div>
